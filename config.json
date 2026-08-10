@@ -1,4 +1,3 @@
 {
-  "name": "La mia Lista",
-  "playlist": "http://athena.dyndns.biz/get.php?username=zioluigifirenze&password=sasy&type=m3u_plus"
+  "server": "http://athena.dyndns.biz:80"
 }
